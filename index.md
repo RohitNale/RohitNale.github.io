@@ -1,123 +1,116 @@
 ---
 layout: default
 ---
+## About Me:
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am **Rohit Nale**, a software developer from **VNIT Napgpur, India**. Innovative Artificial Intelligence/Computer Vision/Machine Learning Engineer with strong mathematical skills and a thorough understanding of machine learning evaluation metrics and best practices. Offering almost two years of experience creating programs and algorithms to enable machines to take actions without being directed. Expertise in predictive analysis, data mining, and computational statistics. Professional with great Python coding and typed language expertise such as C++.
 
-[Link to another page](./another-page.html).
+---
 
-There should be whitespace between paragraphs.
+## Education:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<h3 style="margin-bottom:2px;">Master of Technology</h3>
+<h4 style="margin:0;">Visvesvaraya National Institute of Technology (VNIT)</h4>
+August 2018 - July 2021\
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<h3 style="margin-bottom:2px;">Bachelors of Technology</h3>
+<h4 style="margin:0;">Shri Guru Gobind Singhji Institute of Engineering and Technology, Vishnupuri, Nanded</h4>
+July 2014 - June 2018\
 
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Skills:
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<h4 style="margin-bottom:2px;">Programming Languages:</h4>
+<p style="margin-bottom:4px;">&#x2022; Python &#x2022; C++</p>
 
-```
-The final element.
-```
+<h4 style="margin-bottom:2px; margin-top:2px;">Computer Vision:</h4>
+<p style="margin-bottom:4px;">&#x2022; Pytorch &#x2022; TensorFlow &#x2022; Keras</p>
+
+<h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
+<p style="margin-bottom:4px;">&#x2022; OpenCV &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
+
+<h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
+<p style="margin-bottom:4px;">&#x2022; FastApi &#x2022; Django</p>
+
+<h4 style="margin-bottom:2px; margin-top:2px;">Operating Systems:</h4>
+<p style="margin-bottom:4px;">&#x2022; Windows &#x2022; Linux (Ubuntu, Red Hat)</p>
+
+<h4 style="margin-bottom:2px; margin-top:2px;">Others:</h4>
+<p style="margin-bottom:20px;">&#x2022; Git &#x2022; Github &#x2022; CI/CD &#x2022; Docker</p>
+
+---
+
+  
+## Internships:
+
+<h3 style="margin-bottom:2px;"> FEYNN LABS</h3>
+<p style="margin:0;"><b>Software Developer Intern</b><br>
+April 2022 - May 2022</p>
+<ul style="margin-left: -1.4em;">
+  <li> AI Product/Service Prototyping</li>
+  <li> Market segmentation using machine learning and data analysis</li>
+  <li>AI Product/Service Business and Financial Modeling</li>
+</ul>  
+  
+<h3 style="margin-bottom:2px;">BHARAT SANCHAR NIGAM LIMITED</h3>
+<p style="margin:0;"><b>Internship in Telecommunication</b><br>
+May 2017 - June 2017</p>
+<ul style="margin-left: -1.4em;">
+  I completed my summer training at BSNL, where I have learned the basic concepts of Telecommunications. Different components of BSC and MSC. As part of this training, I learn about the various technologies used in today's telecommunications devices.
+</ul>
+
+---
+
+## Projects:
+
+<div class="card">
+  <h3> Suspicious Human Activity Detection Using Pose Estimation and LSTM</h3>
+  <ul>
+    Design and implement a Deep Learning model to classify suspicious activity for surveillance and health care. Geometric relational features are used to detect human Suspicious activities, the sequence of features is used to train the RNN/LSTM model. The model is implemented in python using TensorFlow and Keras, it efficiently learns the key point features and returns an activity class. This approach is based on the sequential information from 3D features, Geometric Pose Descriptor is a pose distance metrics which sufficiently reflect the pose similarity of human actions in different activities. The proposed method shows overall accuracy of 89.07% on cross view and 81.71% on cross subject evaluation on NTU-60 activity data set.
+  </ul>
+  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Microstrip Patch Antenna designed for 2.4GHz</h3>
+  <ul>
+    Microstrip Patch antenna consists of a flat conductive sheet i.e., patch of a particular shape like a rectangle, triangle, circular, etc., mounted over a larger sheet of metal called a ground plane. A patch antenna (pin feed) is designed to operate close to 2.4GHz using CAD Feko software in this antenna design.
+  </ul>
+  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+</div>
+
+[... See all projects](./projects)
+
+---
+
+## Certifications:
+
+<div class="card">
+  <h3>Applied Data Science with Python</h3>
+  <p><b>Coursera</b>, February 2021<br>
+  Credential Id: D2FMGACHF8NA</p>
+  <a href="http://coursera.org/verify/specialization/D2FMGACHF8NA"><span class="card-link-spanner"></span></a>
+</div>
+
+<div class="card">
+  <h3>Deep Learning</h3>
+  <p><b>Coursera</b>, August 2020<br>
+  Credential Id: PGZPHUQJGP84</p>
+  <a href="http://coursera.org/verify/specialization/PGZPHUQJGP84"><span class="card-link-spanner"></span></a>
+</div>
+
+[... See all certifications](./certifications)
+
+---
+
+## Publications:
+
+<h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/xpl/conhome/9586784/proceeding">Suspicious Human Activity Detection Using Pose Estimation and LSTM</a></h3>
+<p style="margin:0;"><b>Chanchal Rana, ..., Vaibhav Vikas, <i>et al</i>.</b><br>
+2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA), 2021, pp. 197-202<br>
+Doi: <a href="10.1109/IRIA53009.2021.9588719">10.1109/IRIA53009.2021.9588719</a></p>
+<ul style="margin-left: -1.4em;">
+  Design and implement a Deep Learning model to classify suspicious activity for surveillance and health care. Geometric relational features are used to detect human Suspicious activities, the sequence of features is used to train the RNN/LSTM model. The model is implemented in python using TensorFlow and Keras, it efficiently learns the key point features and returns an activity class. This approach is based on the sequential information from 3D features, Geometric Pose Descriptor is a pose distance metrics which sufficiently reflect the pose similarity of human actions in different activities. The proposed method shows overall accuracy of 89.07% on cross view and 81.71% on cross subject evaluation on NTU-60 activity data set.
+</ul>
