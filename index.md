@@ -11,11 +11,11 @@ I am **Rohit Nale**, a software developer from **VNIT Nagpur, India**. Innovativ
 
 <h3 style="margin-bottom:2px;">Master of Technology</h3>
 <h4 style="margin:0;">Visvesvaraya National Institute of Technology (VNIT)</h4>
-August 2018 - July 2021\
+August 2018 - July 2021
 
 <h3 style="margin-bottom:2px;">Bachelors of Technology</h3>
 <h4 style="margin:0;">Shri Guru Gobind Singhji Institute of Engineering and Technology, Vishnupuri, Nanded</h4>
-July 2014 - June 2018\
+July 2014 - June 2018
 
 
 ---
@@ -25,10 +25,8 @@ July 2014 - June 2018\
 <h4 style="margin-bottom:2px;">Programming Languages:</h4>
 <p style="margin-bottom:4px;">&#x2022; Python &#x2022; C++</p>
 
-<h4 style="margin-bottom:2px; margin-top:2px;">Computer Vision:</h4>
-<p style="margin-bottom:4px;">&#x2022; Pytorch &#x2022; TensorFlow &#x2022; Keras</p>
-
 <h4 style="margin-bottom:2px; margin-top:2px;">Frameworks:</h4>
+<p style="margin-bottom:4px;">&#x2022; Pytorch &#x2022; TensorFlow &#x2022; Keras</p>
 <p style="margin-bottom:4px;">&#x2022; OpenCV &#x2022; Sklearn &#x2022; Pandas &#x2022; NumPy</p>
 
 <h4 style="margin-bottom:2px; margin-top:2px;">Web Frameworks & Libraries:</h4>
@@ -108,7 +106,7 @@ May 2017 - June 2017</p>
 ## Publications:
 
 <h3 style="margin-bottom:2px; color:var(--clr-a-text);"><a href="https://ieeexplore.ieee.org/xpl/conhome/9586784/proceeding">Suspicious Human Activity Detection Using Pose Estimation and LSTM</a></h3>
-<p style="margin:0;"><b>Chanchal Rana, ..., Vaibhav Vikas, <i>et al</i>.</b><br>
+<p style="margin:0;"><b>Rohit Nale, ..., Vishal Satpute, <i>et al</i>.</b><br>
 2021 International Symposium of Asian Control Association on Intelligent Robotics and Industrial Automation (IRIA), 2021, pp. 197-202<br>
 Doi: <a href="10.1109/IRIA53009.2021.9588719">10.1109/IRIA53009.2021.9588719</a></p>
 <ul style="margin-left: -1.4em;">
