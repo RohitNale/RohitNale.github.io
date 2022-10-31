@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![](./assets/img/header.jpg)](#)
 
 > <b>Innovative Artificial Intelligence/Computer Vision/Machine Learning Engineer with strong mathematical skills and a thorough understanding of machine learning evaluation metrics and best practices. Offering almost two years of experience creating programs and algorithms to enable machines to take actions without being directed. Expertise in predictive analysis, data mining, and computational statistics. Professional with great Python coding and typed language expertise such as C++.</b>\
@@ -27,16 +26,7 @@
     <tr>
         <td align="center"><a href="https://github.com/rohitnale#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitnale&theme=default"/></a><a href="https://github.com/rohitnale#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitnale&theme=tokyonight"/></a></td>
     </tr>
-    <!-- <tr>
-        <td colspan="2" align="center"><a href="https://github.com/rohitnale#gh-light-mode-only"><img src="https://raw.githubusercontent.com/rohitnale/rohitnale/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/rohitnale#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/rohitnale/rohitnale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td> -->
-=======
-
-<p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
-</p>
-
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/rohitnale#gh-light-mode-only"><img src="https://raw.githubusercontent.com/rohitnale/rohitnale/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/rohitnale#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/rohitnale/rohitnale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
