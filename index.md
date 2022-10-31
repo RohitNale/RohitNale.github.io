@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me:
 
-I am **Rohit Nale**, a software developer from **VNIT Napgpur, India**. Innovative Artificial Intelligence/Computer Vision/Machine Learning Engineer with strong mathematical skills and a thorough understanding of machine learning evaluation metrics and best practices. Offering almost two years of experience creating programs and algorithms to enable machines to take actions without being directed. Expertise in predictive analysis, data mining, and computational statistics. Professional with great Python coding and typed language expertise such as C++.
+I am **Rohit Nale**, a software developer from **VNIT Nagpur, India**. Innovative Artificial Intelligence/Computer Vision/Machine Learning Engineer with strong mathematical skills and a thorough understanding of machine learning evaluation metrics and best practices. Offering almost two years of experience creating programs and algorithms to enable machines to take actions without being directed. Expertise in predictive analysis, data mining, and computational statistics. Professional with great Python coding and typed language expertise such as C++.
 
 ---
 
