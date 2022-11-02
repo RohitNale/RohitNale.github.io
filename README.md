@@ -7,13 +7,14 @@
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-555?style=flat&logo=pandas)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;\
+![Numpy](https://img.shields.io/badge/-Numpy-555?style=flat&logo=numpy)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-555?style=flat&logo=jupyter)&nbsp;
+
+<!-- ![Flask](https://img.shields.io/badge/-Flask-555?style=flat&logo=flask)&nbsp; -->
 
 ## 📈 GitHub Activity Graph:
 
@@ -29,3 +30,5 @@
         <td colspan="2" align="center"><a href="https://github.com/rohitnale#gh-light-mode-only"><img src="https://github.com/RohitNale/RohitNale.github.io/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/rohitnale#gh-dark-mode-only"><img src="https://github.com/RohitNale/RohitNale.github.io/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rohitnale)](https://github.com/ryo-ma/github-profile-trophy) -->
