@@ -59,22 +59,3 @@ permalink: /projects
   </ul>
   <a href="https://hargharnal.neeri.res.in/godavari/" target="_blank" rel="noopener noreferrer">Explore Godavari Atlas</a>
 </div>
-
-<div class="card">
-  <h3>AI/ML-Driven GIS Tree Enumeration & Canopy Extraction</h3>
-  <p><b>CMPDI, Coal India & Ministry of Coal (Hackathon Winner)</b></p>
-  <ul>
-    <li>Developed an AI/ML-based spatial model for automated tree enumeration, species identification, and canopy height estimation using high-resolution satellite imagery.</li>
-    <li>Engineered end-to-end remote sensing pipelines to support sustainable land-use planning and post-mining environmental restoration.</li>
-  </ul>
-</div>
-
-<div class="card">
-  <h3>Suspicious Human Activity Detection Using Pose Estimation and LSTM</h3>
-  <p><b>IEEE IRIA 2021 Publication</b></p>
-  <ul>
-    <li>Designed a deep learning pipeline combining geometric pose descriptors with sequential RNN/LSTM networks to classify human activities in surveillance video feeds.</li>
-    <li>Achieved 89.07% cross-view classification accuracy on the NTU-60 dataset using PyTorch and spatial feature engineering.</li>
-  </ul>
-  <a href="https://doi.org/10.1109/IRIA53009.2021.9588719" target="_blank" rel="noopener noreferrer">Read Publication</a>
-</div>

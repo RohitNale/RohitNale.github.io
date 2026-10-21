@@ -7,7 +7,7 @@ permalink: /certifications
 
 ## Certifications
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>Applied Data Science with Python</h3>
   <p><b>Coursera (University of Michigan)</b> | Issued Feb 2021<br>
   Credential ID: <code>D2FMGACHF8NA</code></p>
@@ -15,7 +15,7 @@ permalink: /certifications
   <a href="http://coursera.org/verify/specialization/D2FMGACHF8NA" target="_blank" rel="noopener noreferrer"><span class="card-link-spanner"></span>Verify Credential</a>
 </div>
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>Deep Learning Specialization</h3>
   <p><b>Coursera (deeplearning.ai)</b> | Issued Aug 2020<br>
   Credential ID: <code>PGZPHUQJGP84</code></p>
@@ -23,7 +23,7 @@ permalink: /certifications
   <a href="http://coursera.org/verify/specialization/PGZPHUQJGP84" target="_blank" rel="noopener noreferrer"><span class="card-link-spanner"></span>Verify Credential</a>
 </div>
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>Python 3 Programming</h3>
   <p><b>Coursera (University of Michigan)</b> | Issued Jul 2020<br>
   Credential ID: <code>NPDFYAEAH7PQ</code></p>
