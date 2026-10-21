@@ -98,13 +98,3 @@ DOI: <a href="https://doi.org/10.1109/IRIA53009.2021.9588719">10.1109/IRIA53009.
   <li>Designed and implemented a deep learning model for real-time video surveillance and activity classification using PyTorch, RNN/LSTM networks, and geometric relational features.</li>
   <li>Achieved 89.07% accuracy on cross-view and 81.71% accuracy on cross-subject evaluations using the NTU-60 dataset.</li>
 </ul>
-
----
-
-## Certifications:
-
-<ul style="margin-left: -1.4em;">
-  <li>Applied Data Science with Python — University of Michigan (Coursera)</li>
-  <li>Deep Learning Specialization — deeplearning.ai (Coursera)</li>
-  <li>Python 3 Programming Specialization — University of Michigan (Coursera)</li>
-</ul>

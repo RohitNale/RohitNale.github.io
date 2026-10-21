@@ -2,22 +2,79 @@
 layout: default
 permalink: /projects
 ---
+
 **[Home](/) >> Projects**
 
-## Projects:
+## Projects & Applications
 
 <div class="card">
-  <h3> Suspicious Human Activity Detection Using Pose Estimation and LSTM</h3>
+  <h3>Affordable IoT-enabled Water Service Delivery Sensing System (Jal Jeevan Mission)</h3>
+  <p><b>CSIR-NEERI & Ministry of Jal Shakti</b></p>
   <ul>
-    Design and implement a Deep Learning model to classify suspicious activity for surveillance and health care. Geometric relational features are used to detect human Suspicious activities, the sequence of features is used to train the RNN/LSTM model. The model is implemented in python using TensorFlow and Keras, it efficiently learns the key point features and returns an activity class. This approach is based on the sequential information from 3D features, Geometric Pose Descriptor is a pose distance metrics which sufficiently reflect the pose similarity of human actions in different activities. The proposed method shows overall accuracy of 89.07% on cross view and 81.71% on cross subject evaluation on NTU-60 activity data set.
+    <li>Engineered an IoT-enabled analytics platform to monitor real-time water quality, flow parameters, and operational metrics across rural water supply schemes.</li>
+    <li>Built backend RESTful services in Python/Django to ingest, parse, and validate continuous time-series data streams from edge devices.</li>
+    <li>Designed interactive web dashboards using React, TypeScript, and OpenLayers for spatial visualization and automated alert logging.</li>
+    <li>Optimized time-series database queries in MongoDB and PostgreSQL to support analytics and operational reporting.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/housing-price-predictor/"><span class="card-link-spanner"></span></a>
+  <a href="https://hargharnal.neeri.res.in/ctmd/app_details/5/" target="_blank" rel="noopener noreferrer">View System Details</a> | <a href="https://hargharnal.neeri.res.in/" target="_blank" rel="noopener noreferrer">Live Portal</a>
 </div>
 
 <div class="card">
-  <h3>Microstrip Patch Antenna designed for 2.4GHz</h3>
+  <h3>PipeSelect — Decision Support Software for Pipe Material Selection</h3>
+  <p><b>CPHEEO & CSIR-NEERI</b></p>
   <ul>
-    Microstrip Patch antenna consists of a flat conductive sheet i.e., patch of a particular shape like a rectangle, triangle, circular, etc., mounted over a larger sheet of metal called a ground plane. A patch antenna (pin feed) is designed to operate close to 2.4GHz using CAD Feko software in this antenna design.
+    <li>Developed PipeSelect v1.0, a decision support application assisting municipal and water supply engineers in evaluating and selecting pipe materials based on hydraulics, soil conditions, and cost parameters.</li>
+    <li>Built Python/Django web architecture and a desktop application distribution using Tauri to support cross-platform execution.</li>
+    <li>Implemented multi-criteria evaluation algorithms backed by structured relational schemas in PostgreSQL.</li>
   </ul>
-  <a href="https://vaibhavvikas.ml/distributed-cloud"><span class="card-link-spanner"></span></a>
+  <a href="https://hargharnal.neeri.res.in/ctmd/app_details/4/" target="_blank" rel="noopener noreferrer">View Project Details</a>
+</div>
+
+<div class="card">
+  <h3>eMAP — Environmental Monitoring and Assessment Platform</h3>
+  <p><b>CSIR-NEERI</b></p>
+  <ul>
+    <li>Architected a spatial monitoring application for environmental baseline assessment and resource mapping.</li>
+    <li>Integrated GIS spatial analytical modules, automated data processing pipelines, and customizable reporting capabilities for environmental data management.</li>
+  </ul>
+  <a href="https://hargharnal.neeri.res.in/ctmd/app_details/8/" target="_blank" rel="noopener noreferrer">View Project Details</a>
+</div>
+
+<div class="card">
+  <h3>RiskPiNet — Quantitative Health & Environmental Risk Assessment Tool</h3>
+  <p><b>CSIR-NEERI</b></p>
+  <ul>
+    <li>Developed analytical models and software workflows to evaluate environmental health risks and contaminant exposure levels.</li>
+    <li>Streamlined complex computational routines into structured visual interfaces for risk evaluation and decision support.</li>
+  </ul>
+  <a href="https://hargharnal.neeri.res.in/ctmd/app_details/2/" target="_blank" rel="noopener noreferrer">View Project Details</a>
+</div>
+
+<div class="card">
+  <h3>Godavari River Basin Condition Assessment & Management Plan (CAMP)</h3>
+  <p><b>cGodavari & CSIR-NEERI</b></p>
+  <ul>
+    <li>Developed web-based GIS applications and hydrological modeling workflows (HEC-HMS, SWAT) to analyze river basin dynamics and stream networks.</li>
+    <li>Built spatial map hosting services and interactive reporting modules to assist municipal stakeholders with river rejuvenation strategies.</li>
+  </ul>
+  <a href="https://hargharnal.neeri.res.in/godavari/" target="_blank" rel="noopener noreferrer">Explore Godavari Atlas</a>
+</div>
+
+<div class="card">
+  <h3>AI/ML-Driven GIS Tree Enumeration & Canopy Extraction</h3>
+  <p><b>CMPDI, Coal India & Ministry of Coal (Hackathon Winner)</b></p>
+  <ul>
+    <li>Developed an AI/ML-based spatial model for automated tree enumeration, species identification, and canopy height estimation using high-resolution satellite imagery.</li>
+    <li>Engineered end-to-end remote sensing pipelines to support sustainable land-use planning and post-mining environmental restoration.</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Suspicious Human Activity Detection Using Pose Estimation and LSTM</h3>
+  <p><b>IEEE IRIA 2021 Publication</b></p>
+  <ul>
+    <li>Designed a deep learning pipeline combining geometric pose descriptors with sequential RNN/LSTM networks to classify human activities in surveillance video feeds.</li>
+    <li>Achieved 89.07% cross-view classification accuracy on the NTU-60 dataset using PyTorch and spatial feature engineering.</li>
+  </ul>
+  <a href="https://doi.org/10.1109/IRIA53009.2021.9588719" target="_blank" rel="noopener noreferrer">Read Publication</a>
 </div>
