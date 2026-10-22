@@ -9,18 +9,6 @@ My work spans end-to-end software architecture, microservices, Docker containeri
 
 ---
 
-## Education:
-
-<h3 style="margin-bottom:2px;">Master of Technology (M.Tech) in Communication System Engineering</h3>
-<h4 style="margin:0;">Visvesvaraya National Institute of Technology (VNIT), Nagpur</h4>
-August 2018 - July 2020
-
-<h3 style="margin-bottom:2px;">Bachelor of Technology (B.Tech) in Electronics & Telecommunication Engineering</h3>
-<h4 style="margin:0;">Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIE&T), Nanded</h4>
-July 2014 - June 2018
-
----
-
 ## Technical Skills:
 
 <h4 style="margin-bottom:2px;">Languages & Frameworks:</h4>
@@ -98,3 +86,15 @@ DOI: <a href="https://doi.org/10.1109/IRIA53009.2021.9588719">10.1109/IRIA53009.
   <li>Designed and implemented a deep learning model for real-time video surveillance and activity classification using PyTorch, RNN/LSTM networks, and geometric relational features.</li>
   <li>Achieved 89.07% accuracy on cross-view and 81.71% accuracy on cross-subject evaluations using the NTU-60 dataset.</li>
 </ul>
+
+---
+
+## Education:
+
+<h3 style="margin-bottom:2px;">Master of Technology (M.Tech) in Communication System Engineering</h3>
+<h4 style="margin:0;">Visvesvaraya National Institute of Technology (VNIT), Nagpur</h4>
+August 2018 - July 2020
+
+<h3 style="margin-bottom:2px;">Bachelor of Technology (B.Tech) in Electronics & Telecommunication Engineering</h3>
+<h4 style="margin:0;">Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIE&T), Nanded</h4>
+July 2014 - June 2018
