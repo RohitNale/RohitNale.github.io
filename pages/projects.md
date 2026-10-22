@@ -7,7 +7,7 @@ permalink: /projects
 
 ## Projects & Applications
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>Affordable IoT-enabled Water Service Delivery Sensing System (Jal Jeevan Mission)</h3>
   <p><b>CSIR-NEERI & Ministry of Jal Shakti</b></p>
   <ul>
@@ -19,7 +19,7 @@ permalink: /projects
   <a href="https://hargharnal.neeri.res.in/ctmd/app_details/5/" target="_blank" rel="noopener noreferrer">View System Details</a> | <a href="https://hargharnal.neeri.res.in/" target="_blank" rel="noopener noreferrer">Live Portal</a>
 </div>
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>PipeSelect — Decision Support Software for Pipe Material Selection</h3>
   <p><b>CPHEEO & CSIR-NEERI</b></p>
   <ul>
@@ -30,7 +30,7 @@ permalink: /projects
   <a href="https://hargharnal.neeri.res.in/ctmd/app_details/4/" target="_blank" rel="noopener noreferrer">View Project Details</a>
 </div>
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>eMAP — Environmental Monitoring and Assessment Platform</h3>
   <p><b>CSIR-NEERI</b></p>
   <ul>
@@ -40,7 +40,7 @@ permalink: /projects
   <a href="https://hargharnal.neeri.res.in/ctmd/app_details/8/" target="_blank" rel="noopener noreferrer">View Project Details</a>
 </div>
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>RiskPiNet — Quantitative Health & Environmental Risk Assessment Tool</h3>
   <p><b>CSIR-NEERI</b></p>
   <ul>
@@ -50,7 +50,7 @@ permalink: /projects
   <a href="https://hargharnal.neeri.res.in/ctmd/app_details/2/" target="_blank" rel="noopener noreferrer">View Project Details</a>
 </div>
 
-<div class="card">
+<div class="card" style="margin-bottom: 1rem;">
   <h3>Godavari River Basin Condition Assessment & Management Plan (CAMP)</h3>
   <p><b>cGodavari & CSIR-NEERI</b></p>
   <ul>
